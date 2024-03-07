@@ -4,12 +4,12 @@
 
 
 Skills: 
-*HTML
-*CSS
-*JS
-*C++ 
-*PYthon 
-*Notion
+* HTML
+* CSS
+* JS
+* C++ 
+* PYthon 
+* Notion
 
 - 🔭 I’m currently working on this page. 
 
