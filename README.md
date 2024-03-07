@@ -35,5 +35,4 @@
 
 
 ## Most Used Languages  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&show_icons=true&locale=en&layout=compact" alt="elkwawy" /></p>
- 
+<div align="center"> <p><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&show_icons=true&locale=en&layout=compact" alt="elkwawy" /></p>
