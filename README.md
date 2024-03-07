@@ -15,3 +15,12 @@
 * VS Code <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:5px" />
 * Notion <img align="left" alt="Visual Studio Code" width="26px" src="https://th.bing.com/th?id=OIP.FLewcwqic0g_4_jP6FSv0gHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" style="padding-right:10px; padding-top:5px" />
 
+
+
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
