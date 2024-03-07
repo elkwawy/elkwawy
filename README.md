@@ -1,50 +1,26 @@
-<h2 align="left">Hi 👋! My name is Ahmed Elkwawy</h2>
+### Hi there 👋, my name is Ahmed Elkwawy
+#### I'm a Front End Developer
+![I'm a Front End Developer](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
 
-###
 
-<h3 align="left">I'm a Front End Developer</h3>
+### Languages and Tools :
 
-###
+* HTML <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-top:5px;" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+* CSS <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-top:5px;" />
 
-###
+* JavaScript<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;padding-top:5px;" />
 
-<div align="left">
-  <a href="https://www.instagram.com/ahmed.elkwawy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ama991969@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-mostafa-0a3973224/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIuTYQS9QQwyK8%2F7CL9XCUQ%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009101370608" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+* C++ <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" style="padding-right:10px; padding-top:5px;" />
 
-###
+* Python <img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" style="padding-right:10px; padding-top:5px;" />
 
-<img align="right" height="150" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"  />
+* Git <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; padding-top:5px;" />
 
-###
+* GitHub <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" style="padding-right:10px; padding-top:5px;" />
+
+* Notion <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png" style="padding-right:10px; padding-top:5px" />
+
+* VS Code <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:5px" />
+
+
