@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmed Elkwawy
 #### I'm a Front End Developer
-![I'm a Front End Developer]
+
 
 <br>
 
