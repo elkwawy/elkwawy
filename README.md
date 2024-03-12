@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ahmed Elkwawy
 #### I'm a Front End Developer
 
-!(https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
+![I'm a Front End Developer](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
 
 ### Languages and Tools :
 
