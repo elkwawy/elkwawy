@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ahmed Elkwawy
 #### I'm a Front End Developer
 
-![I'm a Front End Developer](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="left" height="200" width="" />  
 
 ### Languages and Tools :
 
@@ -24,7 +24,6 @@
 
 * VS Code <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:5px" />
 
-<br/>  
 
 ##
 
