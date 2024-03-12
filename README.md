@@ -4,6 +4,7 @@
 
 ### Languages and Tools :
 
+
 * HTML <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-top:5px;" />
 
 * CSS <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-top:5px;" />
@@ -22,22 +23,9 @@
 
 * VS Code <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:5px" />
 
-
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=elkwawy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-
-## Most Used Languages  
-<div align="center"> <p><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&show_icons=true&locale=en&layout=compact" alt="elkwawy" /></p>
-
-
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elkwawy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
