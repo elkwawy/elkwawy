@@ -3,8 +3,10 @@
 
 <br>
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="300" width="" /> 
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="left" height="300" width="" /> 
 
+<br>
+<br>
 <br>
 
 ### Languages and Tools :
