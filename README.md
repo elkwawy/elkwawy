@@ -14,35 +14,49 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 ### Languages and Tools :
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.iso.org/standard/74528.html" target="_blank">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
+  </a> 
+  <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a> 
+ <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"  />
+  </a> 
+  <a href="https://github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
+     <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
+  </a> 
+</a> 
+</div>   
 
+### My Github Stats
+<div align="center" style="background-color: #0d1117; padding: 20px;">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=elkwawy&show_icons=true&locale=en&theme=vue-dark&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9&bg_color=0d1117" alt="elkwawy"/>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elkwawy&theme=vue-dark&background=0d1117&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9" alt="elkwawy" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&show_icons=true&locale=en&theme=vue-dark&layout=compact&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9&bg_color=0d1117" alt="elkwawy" />
 
-* HTML <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; padding-top:5px;" />
-
-* CSS <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; padding-top:5px;" />
-
-* JavaScript<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;padding-top:5px;" />
-
-* C++ <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" style="padding-right:10px; padding-top:5px;" />
-
-* Python <img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" style="padding-right:10px; padding-top:5px;" />
-
-* Git <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; padding-top:5px;" />
-
-* GitHub <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/128/270/270798.png" style="padding-right:10px; padding-top:5px;" />
-
-* Notion <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png" style="padding-right:10px; padding-top:5px" />
-
-* VS Code <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; padding-top:5px" />
-
-
-##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkwawy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
