@@ -56,10 +56,14 @@
 ### My Github Stats
 <div align="center" style="background-color: #0d1117; padding: 20px;">
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&show_icons=true&locale=en&theme=vue-dark&layout=compact&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9&bg_color=0d1117" alt="elkwawy" />
+
+</div>
+
+<div align="center" style="background-color: #0d1117; padding: 20px;">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=elkwawy&show_icons=true&locale=en&theme=vue-dark&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9&bg_color=0d1117" alt="elkwawy"/>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkwawy&theme=vue-dark&background=0d1117&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9" alt="elkwawy" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkwawy&show_icons=true&locale=en&theme=vue-dark&layout=compact&title_color=0366d6&icon_color=0366d6&text_color=c9d1d9&bg_color=0d1117" alt="elkwawy" />
-
 </div>
